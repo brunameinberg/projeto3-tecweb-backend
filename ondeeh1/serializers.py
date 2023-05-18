@@ -1,8 +1,8 @@
 from rest_framework import serializers
-from .models import Pais
+from .models import Usuario
 
 
-class PaisSerializer(serializers.ModelSerializer):
+class UserSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Pais
-        fields = ['pais','chutes']
+        model = Usuario
+        fields = ['user','pontuacao']
