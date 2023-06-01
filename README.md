@@ -4,4 +4,5 @@ Projeto de Tecnologias-Web do quarto semestre de Engenhaia de Computação do In
 Cronograma:
 - [x]  Trazer feitos do projeto 2
 - [x]  Login
-- [ ]  Pontuação
+- [x]  Pontuação
+
