@@ -4,7 +4,7 @@
 #### link do vídeo de funcionamento: https://youtu.be/_MNw1NWLtZg
 #### visão geral do projeto no arquivo "onde é.png"
 
-##### Cronograma frontend:
+#### Cronograma frontend:
 - [x]  Trazer feitos do projeto 2
 - [x]  Modernizar css
 - [x]  Tela de Login
